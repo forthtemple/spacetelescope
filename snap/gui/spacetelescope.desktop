@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Space Telescope
+Comment=Explore the cosmos
+Exec=spacetelescope
+Icon=${SNAP}/meta/gui/icon.png
+Terminal=false
+Type=Application
+Categories=Games; # Adjust accordingly your snap category.
