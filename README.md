@@ -1,16 +1,6 @@
-# telescope
+# Space Telescope
 
-A new Flutter project.
+Flutter application to view the heavens at high and low magnification. Uses Unistra's API do obtain astronomical images at higher magnifications with a given right ascension and declination. For low magnification uses NASA starmap image of the night sky with constellations. Uses caltech's astronomical lookup API to allow you to search for specific objects eg NGC 100
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Untitled](https://github.com/user-attachments/assets/e1307738-30a8-4939-8648-8388b2fc5618)
+![Untitleiid](https://github.com/user-attachments/assets/7ba3a8b5-2f61-46c0-8cd8-b8c1a425d948)
