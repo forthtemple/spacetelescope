@@ -1,6 +1,6 @@
 # Space Telescope
 
-Flutter application to view the heavens at high and low magnification. Uses Unistra's API do obtain astronomical images at higher magnifications with a given right ascension and declination. For low magnification uses NASA starmap image of the night sky with constellations. Uses caltech's astronomical lookup API to allow you to search for specific objects eg NGC 100
+Flutter application to view the heavens at high and low magnification. Uses Unistra's API do obtain astronomical images at higher magnifications with a given right ascension and declination. For low magnification uses NASA starmap image of the night sky with constellations. Uses caltech's astronomical lookup API to allow you to search for specific objects eg NGC 100. Runs on Linux, Windows, macos. IOS and Android since its using Flutter.
 
 For the python version refer to https://github.com/forthtemple/spacetelescopepy
 
